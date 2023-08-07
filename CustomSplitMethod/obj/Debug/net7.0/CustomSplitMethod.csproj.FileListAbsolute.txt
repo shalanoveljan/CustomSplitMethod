@@ -1,0 +1,15 @@
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\bin\Debug\net7.0\CustomSplitMethod.exe
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\bin\Debug\net7.0\CustomSplitMethod.deps.json
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\bin\Debug\net7.0\CustomSplitMethod.runtimeconfig.json
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\bin\Debug\net7.0\CustomSplitMethod.dll
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\bin\Debug\net7.0\CustomSplitMethod.pdb
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\obj\Debug\net7.0\CustomSplitMethod.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\obj\Debug\net7.0\CustomSplitMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\obj\Debug\net7.0\CustomSplitMethod.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\obj\Debug\net7.0\CustomSplitMethod.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\obj\Debug\net7.0\CustomSplitMethod.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\obj\Debug\net7.0\CustomSplitMethod.dll
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\obj\Debug\net7.0\refint\CustomSplitMethod.dll
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\obj\Debug\net7.0\CustomSplitMethod.pdb
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\obj\Debug\net7.0\CustomSplitMethod.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\VS Code\CustomSplitMethod\obj\Debug\net7.0\ref\CustomSplitMethod.dll
